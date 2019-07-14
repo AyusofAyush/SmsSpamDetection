@@ -1,4 +1,4 @@
-# SmsSpamDetection
+# Sms Spam Filtering using NLP and Naive Bayes Classifier
 SMS Spam Detection Model based on Natural Language Processing and Naive Bayes Classifier.
 
 
